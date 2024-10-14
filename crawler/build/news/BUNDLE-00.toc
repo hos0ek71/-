@@ -1,0 +1,3 @@
+([('news',
+   '/Users/juhoseok/PycharmProjects/onlineshop/Photofolio/crawler/dist/news',
+   'EXECUTABLE')],)
